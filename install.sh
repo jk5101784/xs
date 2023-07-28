@@ -67,19 +67,19 @@ if [ "$n" == "1" ]; then
 linkd=https://api.github.com/repos/xpanel-cp/XPanel-SSH-User-Management/releases/tag/xpanel
 fi
 if [ "$n" == "2" ]; then
-linkd=https://api.github.com/repos/Alirezad07/X-Panel-SSH-User-Management/releases/tags/xpanelv31
+linkd=https://api.github.com/repos/xpanel-cp/XPanel-SSH-User-Management/releases/tag/xpanel
 fi
 if [ "$n" == "3" ]; then
-linkd=https://api.github.com/repos/Alirezad07/X-Panel-SSH-User-Management/releases/tags/xpanelv30
+linkd=https://api.github.com/repos/xpanel-cp/XPanel-SSH-User-Management/releases/tag/xpanel
 fi
 if [ "$n" == "4" ]; then
-linkd=https://api.github.com/repos/Alirezad07/X-Panel-SSH-User-Management/releases/tags/xpanelv29
+linkd=https://api.github.com/repos/xpanel-cp/XPanel-SSH-User-Management/releases/tag/xpanel
 fi
 if [ "$n" == "5" ]; then
-linkd=https://api.github.com/repos/Alirezad07/X-Panel-SSH-User-Management/releases/tags/xpanelv28
+linkd=https://api.github.com/repos/xpanel-cp/XPanel-SSH-User-Management/releases/tag/xpanel
 fi
 else
-linkd=https://api.github.com/repos/Alirezad07/X-Panel-SSH-User-Management/releases/tags/xpanelv34
+linkd=https://api.github.com/repos/xpanel-cp/XPanel-SSH-User-Management/releases/tag/xpanel
 fi
 
 if [ "$dmp" != "" ]; then
